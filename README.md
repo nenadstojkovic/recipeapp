@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81c530a6-933d-40b7-bf92-412a22deafe6/deploy-status)](https://app.netlify.com/sites/nsportfolio-recipeapp/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
