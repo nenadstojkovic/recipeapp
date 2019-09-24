@@ -41,7 +41,7 @@ function App() {
           type="text"
           value={search}
           onChange={updateSearch}
-          placeholder='Search for your favorite food recipes'
+          placeholder='Search recipes for your favorite food'
         />
         <button className="search-button" type="submit">
           Search
