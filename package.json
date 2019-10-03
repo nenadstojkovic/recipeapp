@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -27,5 +28,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/81c530a6-933d-40b7-bf92-412a22deafe6/deploy-status)](https://app.netlify.com/sites/nsportfolio-recipeapp/deploys)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenadstojkovic/recipeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nenadstojkovic/recipeapp/issues"
+  },
+  "homepage": "https://github.com/nenadstojkovic/recipeapp#readme"
 }
